@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\karin\\Desktop\\homeworkNeto\\lesson2\\task1\\Calculator\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9F599686-5CA9-46CF-A2B4-A09CC4CA22EC}|Calculator\\Calculator.vcxproj|C:\\Users\\karin\\Desktop\\homeworkNeto\\lesson2\\task1\\Calculator\\Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9F599686-5CA9-46CF-A2B4-A09CC4CA22EC}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calculator.cpp",
-              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\homeworkNeto\\lesson2\\task1\\Calculator\\Calculator\\Calculator.cpp",
-              "RelativeDocumentMoniker": "Calculator\\Calculator.cpp",
-              "ToolTip": "C:\\Users\\karin\\Desktop\\homeworkNeto\\lesson2\\task1\\Calculator\\Calculator\\Calculator.cpp",
-              "RelativeToolTip": "Calculator\\Calculator.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-05T22:09:59.405Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
