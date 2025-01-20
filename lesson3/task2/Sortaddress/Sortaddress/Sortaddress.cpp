@@ -96,7 +96,6 @@ if (!fin.is_open())
          cout << "Error! File is not open" << endl;
     }
 
-
     fout << N << endl; 
 
     for (int i = 0; i<N; i++)
